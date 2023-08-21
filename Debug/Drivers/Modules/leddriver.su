@@ -1,0 +1,3 @@
+../Drivers/Modules/leddriver.c:9:6:leddriver_init	8	static
+../Drivers/Modules/leddriver.c:22:6:leddriver_on	8	static
+../Drivers/Modules/leddriver.c:27:6:leddriver_off	8	static
